@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.pedrin277.twa",
+        "sha256_cert_fingerprints": ["3B:E6:18:6F:89:6B:D9:65:2C:F0:3F:11:A4:DE:1E:E0:EB:58:2F:E6:32:80:F0:33:AD:21:6D:4A:C5:BD:E4:05"]
+      }
+    }]
